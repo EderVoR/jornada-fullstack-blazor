@@ -1,5 +1,4 @@
 ﻿using Fina.Core.Models;
-using Fina.Core.Requests.Categories;
 using Fina.Core.Requests.Transactions;
 using Fina.Core.Responses;
 
