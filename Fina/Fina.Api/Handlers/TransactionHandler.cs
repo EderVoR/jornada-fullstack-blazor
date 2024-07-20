@@ -60,7 +60,7 @@ namespace Fina.Api.Handlers
 			}
 		}
 
-		public async Task<Response<Transaction?>> GetBtyIdAsync(GetTransactionByIdRequest request)
+		public async Task<Response<Transaction?>> GetByIdAsync(GetTransactionByIdRequest request)
 		{
 			try
 			{

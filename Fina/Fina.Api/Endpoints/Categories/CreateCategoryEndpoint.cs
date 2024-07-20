@@ -26,3 +26,4 @@ namespace Fina.Api.Endpoints.Categories
 		}
 	}
 }
+ 
