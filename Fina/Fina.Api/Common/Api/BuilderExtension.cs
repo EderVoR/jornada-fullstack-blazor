@@ -47,7 +47,7 @@ namespace Fina.Api.Common.Api
 								Configuration.FrontendUrl
 								])
 							.AllowAnyMethod()
-							.AllowAnyMethod()
+							.AllowAnyHeader()
 							.AllowCredentials()
 					));
 		}
